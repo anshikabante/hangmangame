@@ -1,0 +1,13 @@
+roject Name: Hangman Game
+
+Description:
+This is a simple text-based Hangman game developed using Python.
+
+Concepts Used:
+- random
+- while loop
+- if-else
+- strings
+- lists
+
+Developed using Python
